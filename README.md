@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Rebecca2000
-- 👀 I’m interested in Block chain in Maas
-- 🌱 I’m currently learning civil engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rebeccca2000@gmail.com
+# 👋 Hi, I’m Rebecca (Rebeccca2000)
 
-<!---
-Rebeccca2000/Rebeccca2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔬 PhD Candidate at UNSW Sydney (Computational Optimisation & Blockchain Systems)  
+- 💡 Research interests: Quantitative modelling, blockchain in Mobility-as-a-Service (MaaS), market microstructure, and decentralised systems  
+- 🖥️ Strong background in Python, C/C++, Solidity, and HPC simulation  
+- 📊 Experienced in Bayesian optimisation, Monte Carlo simulation, and agent-based modelling  
+- 🤝 Open to collaboration on quantitative research, DeFi protocols, and algorithmic trading projects  
+- 📫 Reach me at **rebeccca2000@gmail.com**  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rebecca2000/)  
+
+---
+⭐️ This is a special repository because it powers my GitHub profile.
